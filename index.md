@@ -3,7 +3,9 @@ title: Welcome to my blog!
 ---
 
 # Who am i
-![Nose bro](https://i.pinimg.com/736x/f6/81/e0/f681e0ba7eab66236fa8c4cd4b4fe29b.jpg)
+<div>
+  <img src="https://i.pinimg.com/736x/f6/81/e0/f681e0ba7eab66236fa8c4cd4b4fe29b.jpg" alt="nose bro" width="300">
+</div>
 
 
 Hi my name is Santiago and i'm a student of Computer Engineering
