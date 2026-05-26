@@ -4,7 +4,7 @@ title: Welcome to my blog!
 
 # Who am i
 <div style="text-align: center;">
-  <img src="https://i.pinimg.com/736x/f6/81/e0/f681e0ba7eab66236fa8c4cd4b4fe29b.jpg" alt="nose bro" width="3000px" !important; height="300" !important>
+  <img src="https://i.pinimg.com/736x/f6/81/e0/f681e0ba7eab66236fa8c4cd4b4fe29b.jpg" alt="nose bro" width="100%" !important; height="300" !important;>
 </div>
 
 
